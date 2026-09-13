@@ -1,0 +1,8 @@
+# Local build products
+**/build/
+
+# macOS metadata
+.DS_Store
+
+# Local Claude permissions
+.claude/settings.local.json
